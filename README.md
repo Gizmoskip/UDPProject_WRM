@@ -9,7 +9,7 @@ java WRMClient [IP address] [Port number]
 
 Where IP address and port number are input as such, as initializers.
 
-Requests you input <REQUESTQUOTE> for a random programming quote, or <EXIT> in order to close the client.
+Requests your input <REQUESTQUOTE> for a random programming quote, or <EXIT> in order to close the client.
 
 
 Server instructions:
